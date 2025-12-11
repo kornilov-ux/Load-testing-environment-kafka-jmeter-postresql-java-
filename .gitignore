@@ -16,3 +16,4 @@ zookeeper_data/
 
 # System
 .DS_Store
+*.swp
